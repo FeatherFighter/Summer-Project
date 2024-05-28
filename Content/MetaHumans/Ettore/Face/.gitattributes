@@ -1,0 +1,2 @@
+FaceNormal_MAIN_LOD.uasset filter=lfs diff=lfs merge=lfs -text
+FaceNormal_MAIN_LOD1.uasset filter=lfs diff=lfs merge=lfs -text
